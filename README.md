@@ -1,4 +1,4 @@
-# FNESI GET STARTED
+# SAMPLE GET STARTED
 
 
 Project prerequisite versions :
